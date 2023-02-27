@@ -11,6 +11,7 @@ Bir karşılaştırma yapmak istediğim için iki modelde de multinominal bir ya
   </p>
 4 tane dictionary var;
 <br>
+<br>
 -wi : word to index; kelimeleri enumerate ediyo
 <br>
 -iw : index to word; yukarıdakinin tersi
@@ -19,7 +20,8 @@ Bir karşılaştırma yapmak istediğim için iki modelde de multinominal bir ya
 <br>
 -niw : new index+1 to word ; yukarıdakinin tersi
 <br>
-
+<br>
+<br>
 İkinci model'in train edilmesi 15-20 dakika kadar sürebilir.
 
 
