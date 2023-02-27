@@ -1,7 +1,7 @@
 # NLP-FlirtQuestion-Generate
 
 
-İlk kısımı Andrej Karpathy'nin makemore adlı modelini esas alarak oluşturdum. Daha basit ve değiştirilebilirliği kolay.
+İlk kısımı <b>Andrej Karpathy'nin</b> makemore adlı modelini esas alarak oluşturdum. Daha basit ve değiştirilebilirliği kolay.
 
 
 
