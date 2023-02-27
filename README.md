@@ -5,9 +5,10 @@
 
 
 
-
+<p>
 İkinci kısımda ise biraz daha(baya) kompleks olan bir model kullanmak istedim aradaki farkı görmek için, o komplekslerin direkt yazıldığı örnekler bulamadğım için Keras kütüphanesinden yararlandım.
 Bir karşılaştırma yapmak istediğim için iki modelde de multinominal bir yaklaşım uyguladım. Ancak ilk modelde şu an 3 blok aralıklarla ölçüyor,LSTM modelinde ise her kelime 1 adım ilerleyerek bağlanıyor.
+  </p>
 4 tane dictionary var;
 <br>
 -wi : word to index; kelimeleri enumerate ediyo
